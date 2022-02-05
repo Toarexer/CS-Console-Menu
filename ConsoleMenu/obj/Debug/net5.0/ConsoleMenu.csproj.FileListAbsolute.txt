@@ -1,0 +1,16 @@
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.exe
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.deps.json
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.runtimeconfig.json
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.runtimeconfig.dev.json
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.dll
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ref\ConsoleMenu.dll
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\bin\Debug\net5.0\ConsoleMenu.pdb
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.csproj.AssemblyReference.cache
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.AssemblyInfoInputs.cache
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.AssemblyInfo.cs
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.csproj.CoreCompileInputs.cache
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.dll
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ref\ConsoleMenu.dll
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.pdb
+C:\GitHub\CS-ConsoleMenu\ConsoleMenu\obj\Debug\net5.0\ConsoleMenu.genruntimeconfig.cache

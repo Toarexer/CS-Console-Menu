@@ -1,6 +1,0 @@
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\bin\Release\MenuFramework.dll
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\bin\Release\MenuFramework.pdb
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\obj\Release\MenuFramework.csproj.AssemblyReference.cache
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\obj\Release\MenuFramework.csproj.CoreCompileInputs.cache
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\obj\Release\MenuFramework.dll
-C:\Visual Studio Projects\C#\MenuFramework\MenuFramework\obj\Release\MenuFramework.pdb
